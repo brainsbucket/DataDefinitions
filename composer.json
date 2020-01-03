@@ -1,5 +1,5 @@
 {
-  "name": "w-vision/data-definitions",
+  "name": "brainsbucket/data-definitions",
   "type": "pimcore-bundle",
   "license": "GPL-3.0-or-later",
   "description": "Data Definitions allows you to define your DataObject Imports and Exports using a nice GUI and re-run the definitions as often you like.",
